@@ -1,0 +1,13 @@
+.preview-image {
+  width: 40rem;
+}
+.cross ion-icon {
+  font-size: 4rem;
+  font-weight: 700;
+  position: absolute;
+  cursor: pointer;
+  top: -3rem;
+  z-index: 9999;
+  right: -3rem;
+  color: var(--outline-color);
+}

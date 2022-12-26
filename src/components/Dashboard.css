@@ -1,0 +1,10 @@
+.Dashboard {
+  max-width: 120rem;
+  min-height: 50%;
+  border-radius: 10px;
+  background-color: var(--box-color);
+  margin: 4rem auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: all 0.8s;
+  overflow: hidden;
+}

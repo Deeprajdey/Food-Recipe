@@ -1,0 +1,5 @@
+.error {
+  color: red;
+  opacity: 1;
+  transition: all 0.8s;
+}
